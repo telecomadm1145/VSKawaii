@@ -1,0 +1,29 @@
+# IDE
+.vs/
+.vscode/**
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+
+# Build Artifacts
+/*/obj/
+/*/bin/
+/bin/
+nupkg/
+[Bb]uild/
+/dist/
+
+# User Preferences
+*.user
+
+# MacOS Cache
+*.DS_Store
+
+# Nix
+.envrc
+shell.nix
+
+# Nuget local feed
+.local_feed/**
+
+!.gitkeep
