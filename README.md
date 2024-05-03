@@ -1,15 +1,17 @@
 
 devenv?uwu=true
 
-ÈÃÄãµÄ Visual Studio ±ä³É¶ş´ÎÔª·ç?
+è®©ä½ çš„ Visual Studio å˜æˆäºŒæ¬¡å…ƒé£?
 
 
-²Ù×÷·½·¨:
+æ“ä½œæ–¹æ³•:
 
-´ò¿ª Visual Studio 2022 °²×°Ä¿Â¼:
+æ‰“å¼€ Visual Studio 2022 å®‰è£…ç›®å½•:
 
 C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE
 
-´ò¿ª 2052 Ä¿Â¼
+æ‰“å¼€ 2052 ç›®å½•
 
-Ìæ»»ÎÄ¼ş MsEnvMui_Brand_708_0.dll
+æ›¿æ¢æ–‡ä»¶ MsEnvMui_Brand_708_0.dll
+
+å¦‚æœæ˜¯Previewç‰ˆæœ¬çš„Visual Studio, åˆ™æ›¿æ¢1033ç›®å½•ä¸‹çš„`MsEnvMui_Brand_BB8_188.dll`
